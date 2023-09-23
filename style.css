@@ -1,0 +1,25 @@
+html{
+    background-color: #ADD8E6;
+}
+input{
+    display: block;
+    width: 250px;
+    height: 40px;
+}
+.checkbox , .radio{
+    width: 15px;
+    display: inline;
+    height: auto;
+}
+#border{
+    border: solid black 2px;
+}
+#send{
+    color: blue;
+}
+.submit{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+}
